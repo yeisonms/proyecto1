@@ -1,0 +1,1 @@
+#practica 1 modificada para el bonus se de compilar el archivo principal.js segio de la palabra inscribir -i="valor del id 1, 2 o 3" -n="nombre" -c="cedula"
